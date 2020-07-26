@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Lenovo
+ * @author Urvashi
  */
 class Address implements Cloneable{
     public String streetName;
