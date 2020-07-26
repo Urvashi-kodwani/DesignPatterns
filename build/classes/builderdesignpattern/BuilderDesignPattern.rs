@@ -1,3 +1,0 @@
-builderdesignpattern.BuilderDesignPattern
-builderdesignpattern.User$UserBuilder
-builderdesignpattern.User
